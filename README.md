@@ -79,4 +79,4 @@ If Lily gets a bonus multiplier of 0.05, their bonus will be $4,500.
 If Clifford gets a bonus multiplier of 0.05, their bonus will be $4,500.
 
 Create a new file called __test.js__. Create the scenario above and make sure
-you get the correct bonuses for each employee.
+you get the correct bonuses for each employee.# EmployeesAndManagersPractice
